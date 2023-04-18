@@ -3,7 +3,7 @@
 ## About me
 I'm a FULL STACK developer. I'm passionate about  technology and its impact on our life!
 
-As a student at the [Assemble Institute of Technology](https://www.linkedin.com/in/iuliia-shikhanova/) Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. 
+As a student at the [Assemble Institute of Technology](https://assemblerinstitute.com/) Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. 
 
 *What are my interests?* :computer: Software Development | :brain: Marketing | :dart: SEO | :airplane: Traveling 
 
