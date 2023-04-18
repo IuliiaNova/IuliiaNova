@@ -13,5 +13,5 @@ As a student at the Assemble Institute of Technology, I've learned numerous tech
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,git,bootstrap,tailwind,sass,figma,mysql,react,TypeScript,nodejs,express,mongodb,auth0,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,git,bootstrap,tailwind,sass,figma,mysql,react,typescript,nodejs,express,mongodb,auth0,postman)](https://skillicons.dev)
 
