@@ -5,12 +5,13 @@ I'm a FULL STACK developer. I'm passionate about  technology and its impact on o
 
 As a student at the Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. 
 
-What are my interests? :computer: Software Development | :brain: Marketing | :dart: SEO | :airplane: Traveling 
+*What are my interests?* :computer: Software Development | :brain: Marketing | :dart: SEO | :airplane: Traveling 
 
-Contact me :earth_asia::
-:keyboard: yshikhanova@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/iuliia-shikhanova/)
+### Contact me :earth_asia::
+- :keyboard: yshikhanova@gmail.com 
+- [LinkedIn](https://www.linkedin.com/in/iuliia-shikhanova/)
 
 
-Languages and Tools:
-html5 css3 javascript php git bootstrap tailwind sass figma mysql react TypeScript nodejs express mongodb auth0 postman
+## Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=html5,css3,javascript,php,git,bootstrap,tailwind,sass,figma,mysql,react,TypeScript,nodejs,express,mongodb,auth0,postman)](https://skillicons.dev)
+
