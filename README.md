@@ -8,7 +8,7 @@ As a student at the Assemble Institute of Technology, I've learned numerous tech
 *What are my interests?* :computer: Software Development | :brain: Marketing | :dart: SEO | :airplane: Traveling 
 
 ### Contact me :earth_asia::
-- :keyboard: yshikhanova@gmail.com 
+- yshikhanova@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/iuliia-shikhanova/)
 
 
