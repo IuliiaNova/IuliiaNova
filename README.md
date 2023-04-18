@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Iuliia Shikhanova👋
 
-<!--
-**IuliiaNova/IuliiaNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a FULL STACK developer. I'm passionate about  technology and its impact on our life!
 
-Here are some ideas to get you started:
+As a student at the Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What are my interests? :computer: Software Development | :brain: Marketing | :dart: SEO | :airplane: Traveling 
+
+Contact me :earth_asia::
+:keyboard: yshikhanova@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/iuliia-shikhanova/)
+
+
+Languages and Tools:
+html5 css3 javascript php git bootstrap tailwind sass figma mysql react TypeScript nodejs express mongodb auth0 postman
