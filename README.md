@@ -17,9 +17,4 @@ As a student at the [Assemble Institute of Technology](https://assemblerinstitut
 
 ![Iuliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IuliiaNova&hide=contribs,prs)
 
-<div align="center">
- <p>You are the visitor number</p>
-  ![Visitor Count](https://profile-counter.glitch.me/IuliiaNova/count.svg)
-   <p>Thanks for visiting   💫<br>See you soon!</p> 
-</div>
 
