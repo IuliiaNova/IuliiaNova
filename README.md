@@ -15,6 +15,5 @@ As a student at the [Assemble Institute of Technology](https://assemblerinstitut
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,php,git,bootstrap,tailwind,sass,figma,mysql,react,typescript,nodejs,express,mongodb,auth0,postman)](https://skillicons.dev)
 
-// ![Iuliia's GitHub stats](https://github-readme-stats.vercel.app/api?username=IuliiaNova&hide=contribs,prs)
 
 
